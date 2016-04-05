@@ -1,0 +1,22 @@
+{
+  "name": "docker-node-example",
+  "version": "1.0.0",
+  "description": "Docker-node-exmple",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/starlightslo/docker-node-example.git"
+  },
+  "author": "Tony Huang <tony@huang.ninja> (http://huang.ninja)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/starlightslo/docker-node-example/issues"
+  },
+  "homepage": "https://github.com/starlightslo/docker-node-example#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
